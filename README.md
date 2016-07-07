@@ -13,6 +13,3 @@ https://hellokoding.com/spring-boot-hello-world-example-with-thymeleaf/
 
 ## Run
 `mvn spring-boot:run`
-
-## License
-MIT
